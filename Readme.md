@@ -23,13 +23,7 @@ Below will be your set of tasks to accomplish. Please work on each of these task
 6. [Load Testing](#load-testing)
 
 ### Documentation
-
-Please deliver documentation of the server that clearly explains the goals of this project and clarifies the API response that is expected.
-
-#### Success Criteria
-
-1. A pull request against `master` of your fork with a clear description of the change and purpose and merge it
-3. **[BONUS]** Create an easy way to deploy and view the documentation in a web format and include instructions to do so
+The API documentation v1 available on this link https://documenter.getpostman.com/view/717881/TVmPAcmD
 
 ### Implement Tooling
 

@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "mocha tests",
-    "start": "node index.js"
+    "start": "node index.js",
+    "lint": "eslint src/"
   },
   "keywords": [
     "Xendit"
@@ -21,6 +22,9 @@
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.14.0",
     "mocha": "^6.1.4",
     "supertest": "^4.0.2"
   }
