@@ -9,7 +9,8 @@
   "scripts": {
     "test": "mocha tests",
     "start": "node index.js",
-    "lint": "eslint ./"
+    "lint": "eslint ./",
+    "coverage": "nyc --reporter=text npm run test"
   },
   "keywords": [
     "Xendit"
